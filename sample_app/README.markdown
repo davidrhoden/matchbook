@@ -1,0 +1,1 @@
+sample application: see page 73 of Ruby On Rails Tutorial.
