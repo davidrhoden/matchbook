@@ -9,6 +9,7 @@ Matchbook::Application.routes.draw do
 
   match '/signup', :to => 'users#new'
   match '/users', :to => 'users#show'
+  match '/artists', :to => 'artists'
   match '/signin', :to => 'sessions#new'
   match '/signout', :to => 'sessions#destroy'
   match '/contact', :to => 'pages#contact'
