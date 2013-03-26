@@ -4,4 +4,4 @@
 # If you change this key, all old signed cookies will become invalid!
 # Make sure the secret is at least 30 characters and all random,
 # no regular words or you'll be exposed to dictionary attacks.
-Matchbook::Application.config.secret_token = '8c69f9f01f04ce34b74f62c9d793b0a3e393bbfe45fa96ec81df1cdc097cbb960324172e17dc6288f6f93b9a273199de9dc7f492c270467ad64348afa2f0350a'
+Matchbook::Application.config.secret_token = '6a2ea3cd5a7de30f33a439c428ba710ae7513ef1258687b884416f2371b9305dca8af2d31e47855a5dd780a36c93837a9139a1e9d9f151993a49a430693e7c7b'
